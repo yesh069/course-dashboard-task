@@ -1,0 +1,30 @@
+/* Add this CSS to your styles or a separate stylesheet */
+
+.course-details-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.course-info {
+  background-color: #f4f4f4;
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+.instructor {
+  font-weight: bold;
+}
+
+.description {
+  font-style: italic;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
